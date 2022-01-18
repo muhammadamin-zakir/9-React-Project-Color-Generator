@@ -1,3 +1,3 @@
-#### Values JS
+## Idea
 
-[values.js](https://github.com/noeldelgado/values.js)
+https://www.uidesigndaily.com/
